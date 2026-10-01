@@ -1,0 +1,40 @@
+[
+  {
+    "$tipoEnvio": "nacional",
+    "RegionDestino": "Valparaiso",
+    "IdSeguimiento": "N-1001",
+    "TipoPaquete": "Caja",
+    "DescripcionContenido": "Repuestos electronicos",
+    "PesoKilos": 3.5,
+    "CostoBase": 8500
+  },
+  {
+    "$tipoEnvio": "nacional",
+    "RegionDestino": "Biobio",
+    "IdSeguimiento": "N-1002",
+    "TipoPaquete": "Sobre",
+    "DescripcionContenido": "Documentos legales",
+    "PesoKilos": 0.3,
+    "CostoBase": 3200
+  },
+  {
+    "$tipoEnvio": "internacional",
+    "PaisDestino": "Argentina",
+    "CodigoArancelario": "PENDIENTE",
+    "IdSeguimiento": "I-2001",
+    "TipoPaquete": "Fragil",
+    "DescripcionContenido": "Vajilla de ceramica",
+    "PesoKilos": 6.2,
+    "CostoBase": 45000
+  },
+  {
+    "$tipoEnvio": "internacional",
+    "PaisDestino": "Peru",
+    "CodigoArancelario": "AR-4521",
+    "IdSeguimiento": "I-2002",
+    "TipoPaquete": "Caja",
+    "DescripcionContenido": "Piezas de repuesto industrial",
+    "PesoKilos": 12,
+    "CostoBase": 78000
+  }
+]
